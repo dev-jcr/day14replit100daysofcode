@@ -1,4 +1,5 @@
-  # libraries
+# 2 player rock paper scissors
+# libraries
     # from getpass import getpass as input
     
     # Intro and names input
