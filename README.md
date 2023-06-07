@@ -1,2 +1,1 @@
-# day14replit100daysofcode
-# Rock, paper, sissors for two players
+# Rock, paper, scissors for two players
